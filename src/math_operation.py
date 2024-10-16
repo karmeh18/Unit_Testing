@@ -6,3 +6,4 @@ def sub(x,y):
 
 #Write the below code to code to trigger workflow in github
 # write a yml file that would trigger workflow in github actions, tell me what things you would need?
+print(sub(-1,-2))
