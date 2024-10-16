@@ -1,0 +1,10 @@
+README.md
+setup.py
+Demo_Project.egg-info/PKG-INFO
+Demo_Project.egg-info/SOURCES.txt
+Demo_Project.egg-info/dependency_links.txt
+Demo_Project.egg-info/top_level.txt
+src/__init__.py
+src/math_operation.py
+tests/__init__.py
+tests/test_operation.py
